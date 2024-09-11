@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth"; // Ako koristiš autentifikaciju
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC6YEOl3NqGh-E1UMGxzl_Z5hvPRMG66VE",
+    apiKey: "Firebase API Key",
     authDomain: "chat1-d75f2.firebaseapp.com",
     projectId: "chat1-d75f2",
     storageBucket: "chat1-d75f2.appspot.com",
